@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**juvithaker/juvithaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Juvina Thaker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+I'm a Undecided currently but I'm leaning towards either Comp-Sci or Graphic Design as a Major.
+
+Hobbies:
+-
+
+    Photography  
+     
+    Puzzles
+
+    Video Editing
+
+    Singing
+
+
+
+
+
+
+
+## 🔗 Links to my favourite websites
+[drive & listen](https://driveandlisten.herokuapp.com)
+
+[window swap](https://www.window-swap.com)
+
+[weave silk](http://weavesilk.com)
+
+
+
