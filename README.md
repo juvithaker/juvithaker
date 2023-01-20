@@ -3,24 +3,24 @@
 
 # Juvina Thaker
 
-
-
-
-
-
-I'm a Undecided currently but I'm leaning towards either Comp-Sci or Graphic Design as a Major.
+A fun fact about me is that I'm fluent in 3 languages. My major is undecided currently but I'm leaning towards either Comp-Sci or Interface Design & Web Dev. I'm really looking forward to this semester!!
 
 Hobbies:
 -
 
-    Photography  
+    Photography📷
      
-    Puzzles
+    Puzzles🧩
 
-    Video Editing
+    Video Editing📹
 
-    Singing
+    Music🎶
 
+## 📷 Photography
+
+I only got into photography about a year ago or so and this is one of the very first pictures I took with it.
+
+![first-640](https://user-images.githubusercontent.com/64047598/213590164-dce32b9e-ea90-4a11-8c49-0095d6b4d212.jpg)
 
 
 
