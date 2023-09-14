@@ -18,9 +18,11 @@ Hobbies:
 
 ## 📷 Photography
 
-Here's a picture I took at a concert over the summer.
+Here's a pics I took over the summer.
 
-![classicu 2023-07-19 233821 593](https://github.com/juvithaker/juvithaker/assets/64047598/b2dd0fd1-38fa-4cfa-be27-4b1e726b3b20)
+![dom](https://github.com/juvithaker/juvithaker/assets/64047598/537e0364-9544-4b04-8a65-7081b41315ae)
+
+![cali](https://github.com/juvithaker/juvithaker/assets/64047598/ecd5ce18-e84c-482c-99c2-f00cfa2a6382)
 
 
 
