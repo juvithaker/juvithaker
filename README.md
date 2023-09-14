@@ -3,7 +3,7 @@
 
 # Juvina Thaker
 
-A fun fact about me is that I'm fluent in 3 languages. My major is undecided currently but I'm leaning towards either Comp-Sci or Interface Design & Web Dev. I'm really looking forward to this semester!!
+A fun fact about me is that I'm fluent in 3 languages. I'm ddouble majoring in It and Interface Design and Web Dev. I'm really looking forward to this semester!!
 
 Hobbies:
 -
@@ -18,9 +18,10 @@ Hobbies:
 
 ## 📷 Photography
 
-I only got into photography about a year ago or so and this is one of the very first pictures I took with it.
+Here's a picture I took at a concert over the summer.
 
-![first-640](https://user-images.githubusercontent.com/64047598/213590164-dce32b9e-ea90-4a11-8c49-0095d6b4d212.jpg)
+![classicu 2023-07-19 233821 593](https://github.com/juvithaker/juvithaker/assets/64047598/b2dd0fd1-38fa-4cfa-be27-4b1e726b3b20)
+
 
 
 
